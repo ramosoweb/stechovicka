@@ -1,9 +1,8 @@
-import { useState, useEffect, useMemo, useCallback } from "react";
 import {
-  Trophy, Star, Shield, Users, Settings, ChevronDown, ChevronUp,
+  Shield, Users, Settings,
   CheckCircle, XCircle, Edit3, Save, X, AlertTriangle, Crown,
-  Zap, Target, Award, TrendingUp, DollarSign, Lock, Unlock,
-  RefreshCw, Calendar, MapPin, Hash
+  Zap, Target, Award, TrendingUp, Lock,
+  RefreshCw, Calendar, MapPin
 } from "lucide-react";
 
 // ─── Supabase client init ───────────────────────────────────────────────────
